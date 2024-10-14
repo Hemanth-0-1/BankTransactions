@@ -49,8 +49,8 @@ h2 {
 }
 input:hover {
     border-color: #007bff;
-    transition: transform 0.5s ease ;
-    transform: scale(1.08);
+/*     transition: transform 0.5s ease ;
+    transform: scale(1.08); */
 }
 .logout{
     position: absolute;
